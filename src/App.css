@@ -1,0 +1,33 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+
+  font-family: "Ubuntu", sans-serif;
+  font-weight: 400;
+}
+
+.cards {
+  display: flex;
+  gap: 20px;
+  margin: 50px 0px;
+}
+
+.card img {
+  width: 14rem;
+  margin: 2rem 2rem 0rem 2rem;
+}
+
+.card-body {
+  padding: 1rem 3rem 1rem 3rem;
+}
+
+.badge {
+  margin: 0rem 2rem 2rem 2rem;
+}
+
+footer {
+  font-weight: 500;
+  font-size: 20px;
+}
